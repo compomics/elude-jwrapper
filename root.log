@@ -1,0 +1,867 @@
+17:04:39,907 DEBUG RetentionTimePredictor:119 - input file does not exist!!
+17:06:24,127 DEBUG RetentionTimePredictor:119 - input file does not exist!!
+17:11:36,557 DEBUG RetentionTimePredictor:119 - input file does not exist!!
+17:12:41,232 DEBUG RetentionTimePredictor:119 - input file string: C:\\Users\\niels\\Development\\Projects\\elude\\elude-jwrapper\\elude\\intput.txt.txt
+17:12:41,234 DEBUG RetentionTimePredictor:120 - input file does not exist!!
+17:14:00,494 DEBUG RetentionTimePredictor:119 - input file string: C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\intput.txt.txt
+17:14:00,496 DEBUG RetentionTimePredictor:120 - input file does not exist!!
+17:15:11,078 DEBUG RetentionTimePredictor:119 - input file string: C:/Users/niels/Development/Projects/elude/elude-jwrapper/elude/intput.txt.txt
+17:15:11,080 DEBUG RetentionTimePredictor:120 - input file does not exist!!
+17:31:10,874 DEBUG RetentionTimePredictor:44 - parameters ok!
+17:31:10,876  INFO RetentionTimePredictor:45 - Starting new RetentionTimePredictor task
+17:31:10,962 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@fee4648
+17:31:10,963  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+17:31:10,993 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318519870948-0\com.compomics.jwrapper.elude-in-1318519870949.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318519870948-0\com.compomics.jwrapper.elude-out-1318519870949.tmp]'
+17:31:11,202 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318519870948-0\com.compomics.jwrapper.elude-in-1318519870949.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318519870948-0\com.compomics.jwrapper.elude-out-1318519870949.tmp]	Duration : 0sec
+09:13:04,247 DEBUG RetentionTimePredictor:44 - parameters ok!
+09:13:04,251  INFO RetentionTimePredictor:45 - Starting new RetentionTimePredictor task
+09:13:04,351 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@5220be79
+09:13:04,355  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+09:13:04,384 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318576384329-0\com.compomics.jwrapper.elude-in-1318576384330.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318576384329-0\com.compomics.jwrapper.elude-out-1318576384330.tmp]'
+09:13:04,541 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318576384329-0\com.compomics.jwrapper.elude-in-1318576384330.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318576384329-0\com.compomics.jwrapper.elude-out-1318576384330.tmp]	Duration : 0sec
+09:16:26,778 DEBUG RetentionTimePredictor:44 - parameters ok!
+09:16:26,781  INFO RetentionTimePredictor:45 - Starting new RetentionTimePredictor task
+09:16:26,858 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@5220be79
+09:16:26,859  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+09:16:26,874 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318576586841-0\com.compomics.jwrapper.elude-in-1318576586841.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318576586841-0\com.compomics.jwrapper.elude-out-1318576586841.tmp]'
+09:16:27,024 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318576586841-0\com.compomics.jwrapper.elude-in-1318576586841.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318576586841-0\com.compomics.jwrapper.elude-out-1318576586841.tmp]	Duration : 0sec
+09:43:55,493 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2d66a22b
+09:43:55,498  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+09:43:55,509 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318578235478-0\com.compomics.jwrapper.elude-in-1318578235479.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318578235478-0\com.compomics.jwrapper.elude-out-1318578235479.tmp]'
+09:43:55,639 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318578235478-0\com.compomics.jwrapper.elude-in-1318578235479.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318578235478-0\com.compomics.jwrapper.elude-out-1318578235479.tmp]	Duration : 0sec
+09:51:55,979 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2d20cc56
+09:51:55,982  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+09:51:55,994 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318578715963-0\com.compomics.jwrapper.elude-in-1318578715963.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318578715963-0\com.compomics.jwrapper.elude-out-1318578715963.tmp]'
+09:51:56,119 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318578715963-0\com.compomics.jwrapper.elude-in-1318578715963.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318578715963-0\com.compomics.jwrapper.elude-out-1318578715963.tmp]	Duration : 0sec
+09:52:59,999 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@1fff7a1e
+09:53:00,003  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+09:53:00,015 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318578779986-0\com.compomics.jwrapper.elude-in-1318578779986.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318578779986-0\com.compomics.jwrapper.elude-out-1318578779986.tmp]'
+09:53:00,134 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318578779986-0\com.compomics.jwrapper.elude-in-1318578779986.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318578779986-0\com.compomics.jwrapper.elude-out-1318578779986.tmp]	Duration : 0sec
+09:56:12,728 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@6a969c29
+09:59:17,441  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+09:59:54,197 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318578917632-0\com.compomics.jwrapper.elude-in-1318578924528.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318578917632-0\com.compomics.jwrapper.elude-out-1318578925513.tmp]'
+09:59:54,354 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318578917632-0\com.compomics.jwrapper.elude-in-1318578924528.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318578917632-0\com.compomics.jwrapper.elude-out-1318578925513.tmp]	Duration : 3sec
+10:01:04,803 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@28b301f2
+10:01:05,520  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:01:06,536 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579258643-0\com.compomics.jwrapper.elude-in-1318579259794.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579258643-0\com.compomics.jwrapper.elude-out-1318579260284.tmp]'
+10:01:07,201 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579258643-0\com.compomics.jwrapper.elude-in-1318579259794.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579258643-0\com.compomics.jwrapper.elude-out-1318579260284.tmp]	Duration : 0sec
+10:03:39,041 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2d20cc56
+10:03:39,046  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:03:39,059 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579419024-0\com.compomics.jwrapper.elude-in-1318579419025.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579419024-0\com.compomics.jwrapper.elude-out-1318579419025.tmp]'
+10:03:39,181 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579419024-0\com.compomics.jwrapper.elude-in-1318579419025.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579419024-0\com.compomics.jwrapper.elude-out-1318579419025.tmp]	Duration : 0sec
+10:05:08,675 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@1fff7a1e
+10:05:08,678  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:05:08,688 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579508659-0\com.compomics.jwrapper.elude-in-1318579508660.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579508659-0\com.compomics.jwrapper.elude-out-1318579508660.tmp]'
+10:05:08,801 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579508659-0\com.compomics.jwrapper.elude-in-1318579508660.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579508659-0\com.compomics.jwrapper.elude-out-1318579508660.tmp]	Duration : 0sec
+10:06:20,128 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2d20cc56
+10:06:20,133  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:06:20,146 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579580111-0\com.compomics.jwrapper.elude-in-1318579580112.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579580111-0\com.compomics.jwrapper.elude-out-1318579580112.tmp]'
+10:06:20,285 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579580111-0\com.compomics.jwrapper.elude-in-1318579580112.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579580111-0\com.compomics.jwrapper.elude-out-1318579580112.tmp]	Duration : 0sec
+10:07:18,620 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@487a1576
+10:07:18,624  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:07:18,638 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579638603-0\com.compomics.jwrapper.elude-in-1318579638604.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579638603-0\com.compomics.jwrapper.elude-out-1318579638604.tmp]'
+10:07:18,754 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579638603-0\com.compomics.jwrapper.elude-in-1318579638604.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579638603-0\com.compomics.jwrapper.elude-out-1318579638604.tmp]	Duration : 0sec
+10:07:36,408 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@669980d5
+10:07:36,411  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:07:36,424 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579656392-0\com.compomics.jwrapper.elude-in-1318579656393.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579656392-0\com.compomics.jwrapper.elude-out-1318579656393.tmp]'
+10:07:36,537 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579656392-0\com.compomics.jwrapper.elude-in-1318579656393.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579656392-0\com.compomics.jwrapper.elude-out-1318579656393.tmp]	Duration : 0sec
+10:09:59,386 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@67d95492
+10:09:59,390  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:09:59,403 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579799370-0\com.compomics.jwrapper.elude-in-1318579799371.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579799370-0\com.compomics.jwrapper.elude-out-1318579799371.tmp]'
+10:09:59,519 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318579799370-0\com.compomics.jwrapper.elude-in-1318579799371.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318579799370-0\com.compomics.jwrapper.elude-out-1318579799371.tmp]	Duration : 0sec
+10:18:49,982 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2d20cc56
+10:18:49,986  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:18:49,999 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318580329968-0\com.compomics.jwrapper.elude-in-1318580329969.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318580329968-0\com.compomics.jwrapper.elude-out-1318580329969.tmp]'
+10:18:50,130 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318580329968-0\com.compomics.jwrapper.elude-in-1318580329969.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318580329968-0\com.compomics.jwrapper.elude-out-1318580329969.tmp]	Duration : 0sec
+10:19:08,246 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2d20cc56
+10:19:08,251  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:19:08,262 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318580348231-0\com.compomics.jwrapper.elude-in-1318580348232.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318580348231-0\com.compomics.jwrapper.elude-out-1318580348232.tmp]'
+10:19:08,383 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318580348231-0\com.compomics.jwrapper.elude-in-1318580348232.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318580348231-0\com.compomics.jwrapper.elude-out-1318580348232.tmp]	Duration : 0sec
+10:19:35,941 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@6076ab2f
+10:19:35,945  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:19:35,957 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318580375925-0\com.compomics.jwrapper.elude-in-1318580375926.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318580375925-0\com.compomics.jwrapper.elude-out-1318580375926.tmp]'
+10:19:36,072 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318580375925-0\com.compomics.jwrapper.elude-in-1318580375926.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318580375925-0\com.compomics.jwrapper.elude-out-1318580375926.tmp]	Duration : 0sec
+10:28:22,635 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48ff2413
+10:28:22,639  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:28:22,650 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318580902616-0\com.compomics.jwrapper.elude-in-1318580902616.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318580902616-0\com.compomics.jwrapper.elude-out-1318580902616.tmp]'
+10:28:22,759 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318580902616-0\com.compomics.jwrapper.elude-in-1318580902616.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318580902616-0\com.compomics.jwrapper.elude-out-1318580902616.tmp]	Duration : 0sec
+10:28:54,487 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2d20cc56
+10:28:54,491  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:28:54,500 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318580934473-0\com.compomics.jwrapper.elude-in-1318580934474.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318580934473-0\com.compomics.jwrapper.elude-out-1318580934474.tmp]'
+10:28:54,609 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318580934473-0\com.compomics.jwrapper.elude-in-1318580934474.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318580934473-0\com.compomics.jwrapper.elude-out-1318580934474.tmp]	Duration : 0sec
+10:42:10,949 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2d20cc56
+10:42:10,953  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:42:10,962 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318581730934-0\com.compomics.jwrapper.elude-in-1318581730935.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318581730934-0\com.compomics.jwrapper.elude-out-1318581730935.tmp]'
+10:42:11,075 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318581730934-0\com.compomics.jwrapper.elude-in-1318581730935.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318581730934-0\com.compomics.jwrapper.elude-out-1318581730935.tmp]	Duration : 0sec
+10:43:33,622 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@4447393f
+10:43:33,625  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:43:33,634 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318581813608-0\com.compomics.jwrapper.elude-in-1318581813609.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318581813608-0\com.compomics.jwrapper.elude-out-1318581813609.tmp]'
+10:43:33,746 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318581813608-0\com.compomics.jwrapper.elude-in-1318581813609.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318581813608-0\com.compomics.jwrapper.elude-out-1318581813609.tmp]	Duration : 0sec
+10:43:44,689 DEBUG RetentionTimePredictionTask:97 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2d20cc56
+10:43:44,693  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:43:44,702 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318581824674-0\com.compomics.jwrapper.elude-in-1318581824675.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318581824674-0\com.compomics.jwrapper.elude-out-1318581824675.tmp]'
+10:43:44,814 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318581824674-0\com.compomics.jwrapper.elude-in-1318581824675.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318581824674-0\com.compomics.jwrapper.elude-out-1318581824675.tmp]	Duration : 0sec
+10:57:22,802 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@4447393f
+10:57:22,806  INFO RetentionTimePredictionTask:60 - submitting com.compomics.jwrapper.elude task
+10:57:22,815 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318582642788-0\com.compomics.jwrapper.elude-in-1318582642789.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318582642788-0\com.compomics.jwrapper.elude-out-1318582642789.tmp]'
+10:57:22,841 DEBUG CommandThread:72 - Error: Unable to open \model\Jupiter_60.model. Execution aborted
+10:57:22,843 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318582642788-0\com.compomics.jwrapper.elude-in-1318582642789.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318582642788-0\com.compomics.jwrapper.elude-out-1318582642789.tmp]	Duration : 0sec
+11:27:07,395 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@4447393f
+11:27:07,398  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:27:07,408 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318584427378-0\com.compomics.jwrapper.elude-in-1318584427379.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318584427378-0\com.compomics.jwrapper.elude-out-1318584427379.tmp]'
+11:27:07,415 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+11:33:27,043  INFO EludeConfiguration:34 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\.
+11:33:27,055 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48d19bc8
+11:33:27,056  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:33:27,066 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318584807038-0\com.compomics.jwrapper.elude-in-1318584807039.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318584807038-0\com.compomics.jwrapper.elude-out-1318584807039.tmp]'
+11:33:27,073 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+11:35:27,096  INFO EludeConfiguration:34 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\.
+11:35:27,108 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48d19bc8
+11:35:27,110  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:35:27,119 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318584927092-0\com.compomics.jwrapper.elude-in-1318584927092.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318584927092-0\com.compomics.jwrapper.elude-out-1318584927092.tmp]'
+11:35:27,127 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+11:36:14,517  INFO EludeConfiguration:34 - 
+11:36:14,529 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48d19bc8
+11:36:14,530  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:36:14,539 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318584974513-0\com.compomics.jwrapper.elude-in-1318584974513.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318584974513-0\com.compomics.jwrapper.elude-out-1318584974513.tmp]'
+11:36:14,546 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+11:42:19,411  INFO EludeConfiguration:34 - /C:/Users/niels/Development/Projects/elude/elude-jwrapper/target/test-classes/
+11:42:19,423 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@693a317a
+11:42:19,425  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:42:19,434 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318585339407-0\com.compomics.jwrapper.elude-in-1318585339407.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318585339407-0\com.compomics.jwrapper.elude-out-1318585339407.tmp]'
+11:42:19,439 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+11:55:08,845  INFO EludeConfiguration:35 - C:\Program Files (x86)\JetBrains\IntelliJ IDEA 10.5.1\lib\idea_rt.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 10.5.1\plugins\junit\lib\junit-rt.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\alt-rt.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\alt-string.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.6.0_26\jre\lib\ext\sunjce_provider.jar;C:\Users\niels\Development\Projects\elude\elude-jwrapper\target\test-classes;C:\Users\niels\Development\Projects\elude\elude-jwrapper\target\classes;C:\Development\Repository\junit\junit\4.8.2\junit-4.8.2.jar;C:\Development\Repository\commons-configuration\commons-configuration\1.4\commons-configuration-1.4.jar;C:\Development\Repository\commons-collections\commons-collections\3.2\commons-collections-3.2.jar;C:\Development\Repository\commons-lang\commons-lang\2.3\commons-lang-2.3.jar;C:\Development\Repository\commons-logging\commons-logging-api\1.0.4\commons-logging-api-1.0.4.jar;C:\Development\Repository\commons-digester\commons-digester\1.8\commons-digester-1.8.jar;C:\Development\Repository\commons-beanutils\commons-beanutils\1.7.0\commons-beanutils-1.7.0.jar;C:\Development\Repository\commons-logging\commons-logging\1.1\commons-logging-1.1.jar;C:\Development\Repository\log4j\log4j\1.2.12\log4j-1.2.12.jar;C:\Development\Repository\logkit\logkit\1.0.1\logkit-1.0.1.jar;C:\Development\Repository\avalon-framework\avalon-framework\4.1.3\avalon-framework-4.1.3.jar;C:\Development\Repository\javax\servlet\servlet-api\2.2\servlet-api-2.2.jar;C:\Development\Repository\commons-beanutils\commons-beanutils-core\1.7.0\commons-beanutils-core-1.7.0.jar;C:\Development\Repository\commons-codec\commons-codec\1.3\commons-codec-1.3.jar;C:\Development\Repository\commons-jxpath\commons-jxpath\1.2\commons-jxpath-1.2.jar;C:\Development\Repository\xerces\xerces\1.2.3\xerces-1.2.3.jar;C:\Development\Repository\ant\ant-optional\1.5.1\ant-optional-1.5.1.jar;C:\Development\Repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Development\Repository\jdom\jdom\b9\jdom-b9.jar;C:\Development\Repository\com\google\guava\guava\r08\guava-r08.jar;C:\Development\Repository\com\compomics\utilities\3.1.21\utilities-3.1.21.jar;C:\Development\Repository\lennart\lmjunit\1.0.2\lmjunit-1.0.2.jar;C:\Development\Repository\xpp3\xpp3\1.1.3.4-RC3\xpp3-1.1.3.4-RC3.jar;C:\Development\Repository\de\proteinms\omxparser\omssa-parser\1.4.5\omssa-parser-1.4.5.jar;C:\Development\Repository\com\jgoodies\looks\2.2.2\looks-2.2.2.jar;C:\Development\Repository\org\swinglabs\swing-layout\1.0.3\swing-layout-1.0.3.jar;C:\Development\Repository\org\swinglabs\swingx\0.9.1\swingx-0.9.1.jar;C:\Development\Repository\de\proteinms\xtandemparser\xtandem-parser\1.3.3\xtandem-parser-1.3.3.jar;C:\Development\Repository\com\compomics\mascotdatfile\3.2.2\mascotdatfile-3.2.2.jar;C:\Development\Repository\commons-math\commons-math\1.2\commons-math-1.2.jar;C:\Development\Repository\batik\batik-all\1.6\batik-all-1.6.jar;C:\Development\Repository\batik\pdf-transcoder\1.0\pdf-transcoder-1.0.jar;C:\Development\Repository\xerces\xercesImpl\2.9.1\xercesImpl-2.9.1.jar;C:\Development\Repository\uk\ac\ebi\jmzml\jmzml\1.6.5\jmzml-1.6.5.jar;C:\Development\Repository\com\sun\xml\bind\jaxb-xjc\2.1.7\jaxb-xjc-2.1.7.jar;C:\Development\Repository\com\sun\xml\bind\jaxb-impl\2.1.7\jaxb-impl-2.1.7.jar;C:\Development\Repository\javax\xml\bind\jaxb-api\2.1\jaxb-api-2.1.jar;C:\Development\Repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar;C:\Development\Repository\javax\activation\activation\1.1\activation-1.1.jar;C:\Development\Repository\psidev\psi\tools\xxindex\0.10\xxindex-0.10.jar;C:\Development\Repository\org\apache\commons\com.springsource.org.apache.commons.io\1.4.0\com.springsource.org.apache.commons.io-1.4.0.jar;C:\Development\Repository\cpdetector\cpdetector\1.0.7\cpdetector-1.0.7.jar;C:\Development\Repository\org\antlr\com.springsource.antlr\2.7.7\com.springsource.antlr-2.7.7.jar;C:\Development\Repository\jargs\jargs\1.0\jargs-1.0.jar;C:\Development\Repository\org\mozilla\intl\chardet\1.0\chardet-1.0.jar;C:\Development\Repository\org\apache\commons\com.springsource.org.apache.commons.logging\1.1.1\com.springsource.org.apache.commons.logging-1.1.1.jar;C:\Development\Repository\org\apache\log4j\com.springsource.org.apache.log4j\1.2.15\com.springsource.org.apache.log4j-1.2.15.jar;C:\Development\Repository\jfree\jfreechart\1.0.13\jfreechart-1.0.13.jar;C:\Development\Repository\jfree\jcommon\1.0.16\jcommon-1.0.16.jar;C:\Development\Repository\no\uib\jsparklines\0.5.13\jsparklines-0.5.13.jar;C:\Development\Repository\commons-cli\commons-cli\1.2\commons-cli-1.2.jar
+11:55:08,870 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48d19bc8
+11:55:08,872  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:55:08,882 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318586108840-0\com.compomics.jwrapper.elude-in-1318586108841.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318586108840-0\com.compomics.jwrapper.elude-out-1318586108841.tmp]'
+11:55:08,889 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+11:58:36,339  INFO EludeConfiguration:34 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\.
+11:58:36,351 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@394a8cd1
+11:58:36,353  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:58:36,362 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318586316335-0\com.compomics.jwrapper.elude-in-1318586316335.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318586316335-0\com.compomics.jwrapper.elude-out-1318586316335.tmp]'
+11:58:36,367 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+12:00:16,056  INFO EludeConfiguration:34 - 
+12:00:16,068 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48d19bc8
+12:00:16,070  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:00:16,080 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318586416052-0\com.compomics.jwrapper.elude-in-1318586416052.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318586416052-0\com.compomics.jwrapper.elude-out-1318586416052.tmp]'
+12:00:16,085 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+12:02:42,282  INFO EludeConfiguration:34 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\..
+12:02:42,294 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@394a8cd1
+12:02:42,296  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:02:42,305 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318586562280-0\com.compomics.jwrapper.elude-in-1318586562280.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318586562280-0\com.compomics.jwrapper.elude-out-1318586562280.tmp]'
+12:02:42,311 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+12:03:13,002  INFO EludeConfiguration:36 - C:\Users\niels\Development\Projects\elude\elude-jwrapper
+12:03:13,013 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@6b86768e
+12:03:13,015  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:03:13,024 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318586592997-0\com.compomics.jwrapper.elude-in-1318586592998.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318586592997-0\com.compomics.jwrapper.elude-out-1318586592998.tmp]'
+12:03:13,033 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+12:04:43,985  INFO EludeConfiguration:36 - C:\Users\niels\Development\Projects\elude\elude-jwrapper
+12:04:43,987  INFO EludeConfiguration:37 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\.
+12:04:43,997 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48d19bc8
+12:04:43,999  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:04:44,008 DEBUG CommandThread:66 - Executing command '[C:\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318586683979-0\com.compomics.jwrapper.elude-in-1318586683980.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318586683979-0\com.compomics.jwrapper.elude-out-1318586683980.tmp]'
+12:04:44,014 ERROR CommandThread:85 - Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+java.io.IOException: Cannot run program "C:\elude\elude-jwrapper\elude\win\elude.exe" (in directory "\elude\elude-jwrapper\elude"): CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=267, De mapnaam is ongeldig
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+12:12:11,172  INFO EludeConfiguration:38 - C:\Users\niels\Development\Projects\elude\elude-jwrapper
+12:12:11,184 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@394a8cd1
+12:12:11,186  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:12:11,200 ERROR CommandThread:85 - 
+java.lang.NullPointerException
+	at java.io.File.<init>(File.java:222)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:60)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+12:18:05,597  INFO EludeConfiguration:44 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\null
+12:18:05,609 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@6b86768e
+12:18:05,611  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:18:05,625 ERROR CommandThread:85 - 
+java.lang.NullPointerException
+	at java.io.File.<init>(File.java:222)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:60)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+12:18:42,874  INFO EludeConfiguration:44 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude
+12:18:42,878 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48d19bc8
+12:18:42,880  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:18:42,889 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318587522862-0\com.compomics.jwrapper.elude-in-1318587522862.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318587522862-0\com.compomics.jwrapper.elude-out-1318587522862.tmp]'
+12:18:42,915 DEBUG CommandThread:72 - Error: Unable to open \model\Jupiter_60.model. Execution aborted
+12:18:42,916 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, \model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318587522862-0\com.compomics.jwrapper.elude-in-1318587522862.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318587522862-0\com.compomics.jwrapper.elude-out-1318587522862.tmp]	Duration : 0sec
+12:19:43,348  INFO EludeConfiguration:44 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude
+12:19:43,352 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@394a8cd1
+12:19:43,354  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:19:43,363 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318587583335-0\com.compomics.jwrapper.elude-in-1318587583336.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318587583335-0\com.compomics.jwrapper.elude-out-1318587583336.tmp]'
+12:19:43,388 DEBUG CommandThread:72 - Error: Unable to open model\Jupiter_60.model. Execution aborted
+12:19:43,390 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318587583335-0\com.compomics.jwrapper.elude-in-1318587583336.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318587583335-0\com.compomics.jwrapper.elude-out-1318587583336.tmp]	Duration : 0sec
+12:22:43,188  INFO EludeConfiguration:44 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude
+12:22:43,192 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@394a8cd1
+12:22:43,194  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:22:43,203 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318587763175-0\com.compomics.jwrapper.elude-in-1318587763176.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318587763175-0\com.compomics.jwrapper.elude-out-1318587763176.tmp]'
+12:22:43,230 DEBUG CommandThread:72 - Error: Unable to open model\Jupiter_60.model. Execution aborted
+12:22:43,231 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318587763175-0\com.compomics.jwrapper.elude-in-1318587763176.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318587763175-0\com.compomics.jwrapper.elude-out-1318587763176.tmp]	Duration : 0sec
+12:30:34,250  INFO EludeConfiguration:36 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude
+12:30:34,254 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48d19bc8
+12:30:34,256  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:30:34,265 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318588234238-0\com.compomics.jwrapper.elude-in-1318588234238.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318588234238-0\com.compomics.jwrapper.elude-out-1318588234238.tmp]'
+12:30:34,290 DEBUG CommandThread:72 - Error: Unable to open C:\Users\niels\Development\Projects\elude\elude-jwrapper\model\Jupiter_60.model. Execution aborted
+12:30:34,291 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318588234238-0\com.compomics.jwrapper.elude-in-1318588234238.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318588234238-0\com.compomics.jwrapper.elude-out-1318588234238.tmp]	Duration : 0sec
+12:37:21,998  INFO EludeConfiguration:36 - C:\Users\niels\Development\Projects\elude\elude-jwrapper
+12:37:22,010 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48d19bc8
+12:37:22,012  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:37:22,021 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\{elude.directory}\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\{elude.directory}/model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318588641993-0\com.compomics.jwrapper.elude-in-1318588641993.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318588641993-0\com.compomics.jwrapper.elude-out-1318588641993.tmp]'
+12:37:22,027 ERROR CommandThread:85 - Cannot run program "C:\Users\niels\Development\Projects\elude\elude-jwrapper\{elude.directory}\win\elude.exe" (in directory "C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude"): CreateProcess error=2, Het systeem kan het opgegeven bestand niet vinden
+java.io.IOException: Cannot run program "C:\Users\niels\Development\Projects\elude\elude-jwrapper\{elude.directory}\win\elude.exe" (in directory "C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude"): CreateProcess error=2, Het systeem kan het opgegeven bestand niet vinden
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=2, Het systeem kan het opgegeven bestand niet vinden
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+12:40:29,751  INFO EludeConfiguration:36 - C:\Users\niels\Development\Projects\elude\elude-jwrapper
+12:40:29,763 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@394a8cd1
+12:40:29,765  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:40:29,775 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318588829747-0\com.compomics.jwrapper.elude-in-1318588829747.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318588829747-0\com.compomics.jwrapper.elude-out-1318588829747.tmp]'
+12:40:29,806 DEBUG CommandThread:72 - Error: Unable to open C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/model\Jupiter_60.model. Execution aborted
+12:40:29,807 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318588829747-0\com.compomics.jwrapper.elude-in-1318588829747.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318588829747-0\com.compomics.jwrapper.elude-out-1318588829747.tmp]	Duration : 0sec
+12:48:50,084  INFO EludeConfiguration:36 - C:\Users\niels\Development\Projects\elude\elude-jwrapper
+12:48:50,100 DEBUG RetentionTimePredictionTask:96 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/model
+12:48:50,100 DEBUG RetentionTimePredictionTask:100 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@394a8cd1
+12:48:50,100  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:48:50,123 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318589330084-0\com.compomics.jwrapper.elude-in-1318589330084.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318589330084-0\com.compomics.jwrapper.elude-out-1318589330084.tmp]'
+12:48:50,148 DEBUG CommandThread:72 - Error: Unable to open C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/model\Jupiter_60.model. Execution aborted
+12:48:50,150 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318589330084-0\com.compomics.jwrapper.elude-in-1318589330084.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318589330084-0\com.compomics.jwrapper.elude-out-1318589330084.tmp]	Duration : 0sec
+12:50:21,015  INFO EludeConfiguration:36 - C:\Users\niels\Development\Projects\elude\elude-jwrapper
+12:50:21,026 DEBUG RetentionTimePredictionTask:96 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\model
+12:50:21,027 DEBUG RetentionTimePredictionTask:100 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@48d19bc8
+12:50:21,029  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:50:21,038 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318589421010-0\com.compomics.jwrapper.elude-in-1318589421011.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318589421010-0\com.compomics.jwrapper.elude-out-1318589421011.tmp]'
+12:50:21,063 DEBUG CommandThread:72 - Error: Unable to open C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\model\Jupiter_60.model. Execution aborted
+12:50:21,064 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318589421010-0\com.compomics.jwrapper.elude-in-1318589421011.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318589421010-0\com.compomics.jwrapper.elude-out-1318589421011.tmp]	Duration : 0sec
+12:51:35,322  INFO EludeConfiguration:36 - C:\Users\niels\Development\Projects\elude\elude-jwrapper
+12:51:35,334 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@394a8cd1
+12:51:35,336  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:51:35,345 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318589495317-0\com.compomics.jwrapper.elude-in-1318589495318.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318589495317-0\com.compomics.jwrapper.elude-out-1318589495318.tmp]'
+12:51:35,369 DEBUG CommandThread:72 - Error: Unable to open C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\model\Jupiter_60.model. Execution aborted
+12:51:35,370 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\model\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318589495317-0\com.compomics.jwrapper.elude-in-1318589495318.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318589495317-0\com.compomics.jwrapper.elude-out-1318589495318.tmp]	Duration : 0sec
+12:53:06,546  INFO EludeConfiguration:36 - C:\Users\niels\Development\Projects\elude\elude-jwrapper
+12:53:06,558 DEBUG RetentionTimePredictionTask:96 - C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models
+12:53:06,559 DEBUG RetentionTimePredictionTask:100 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@394a8cd1
+12:53:06,561  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:53:06,570 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318589586542-0\com.compomics.jwrapper.elude-in-1318589586542.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318589586542-0\com.compomics.jwrapper.elude-out-1318589586542.tmp]'
+12:53:06,681 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318589586542-0\com.compomics.jwrapper.elude-in-1318589586542.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318589586542-0\com.compomics.jwrapper.elude-out-1318589586542.tmp]	Duration : 0sec
+12:54:07,792 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@4447393f
+12:54:07,795  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+12:54:07,804 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318589647777-0\com.compomics.jwrapper.elude-in-1318589647777.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318589647777-0\com.compomics.jwrapper.elude-out-1318589647777.tmp]'
+12:54:07,912 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318589647777-0\com.compomics.jwrapper.elude-in-1318589647777.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318589647777-0\com.compomics.jwrapper.elude-out-1318589647777.tmp]	Duration : 0sec
+14:06:41,556 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:06:41,558  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:06:41,613 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@55d15445
+14:06:41,615  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:06:41,624 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594001601-0\com.compomics.jwrapper.elude-in-1318594001602.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594001601-0\com.compomics.jwrapper.elude-out-1318594001602.tmp]'
+14:06:41,736 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594001601-0\com.compomics.jwrapper.elude-in-1318594001602.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594001601-0\com.compomics.jwrapper.elude-out-1318594001602.tmp]	Duration : 0sec
+14:06:42,635  INFO RetentionTimePredictor:81 - exiting
+14:08:17,402 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:08:17,404  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:08:17,464 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2897a560
+14:08:17,466  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:08:17,476 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594097450-0\com.compomics.jwrapper.elude-in-1318594097451.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594097450-0\com.compomics.jwrapper.elude-out-1318594097451.tmp]'
+14:08:17,589 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594097450-0\com.compomics.jwrapper.elude-in-1318594097451.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594097450-0\com.compomics.jwrapper.elude-out-1318594097451.tmp]	Duration : 0sec
+14:08:18,482 ERROR RetentionTimePredictor:88 - Het systeem kan het opgegeven pad niet vinden
+java.io.IOException: Het systeem kan het opgegeven pad niet vinden
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:883)
+	at com.compomics.jwrapper.elude.playground.RetentionTimePredictor.doRetentionTimePredictor(RetentionTimePredictor.java:69)
+	at com.compomics.jwrapper.elude.TestRetentionTimePrediction.testRetentionTimePredictor(TestRetentionTimePrediction.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at com.intellij.junit3.JUnit3IdeaTestRunner.doRun(JUnit3IdeaTestRunner.java:139)
+	at junit.textui.TestRunner.doRun(TestRunner.java:109)
+	at com.intellij.junit3.JUnit3IdeaTestRunner.startRunnerWithArgs(JUnit3IdeaTestRunner.java:52)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:199)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:120)
+14:08:33,663 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:08:33,665  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:08:33,722 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@7bea5671
+14:08:33,724  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:08:33,733 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594113708-0\com.compomics.jwrapper.elude-in-1318594113709.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594113708-0\com.compomics.jwrapper.elude-out-1318594113709.tmp]'
+14:08:33,845 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594113708-0\com.compomics.jwrapper.elude-in-1318594113709.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594113708-0\com.compomics.jwrapper.elude-out-1318594113709.tmp]	Duration : 0sec
+14:08:34,740 ERROR RetentionTimePredictor:88 - Het systeem kan het opgegeven pad niet vinden
+java.io.IOException: Het systeem kan het opgegeven pad niet vinden
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:883)
+	at com.compomics.jwrapper.elude.playground.RetentionTimePredictor.doRetentionTimePredictor(RetentionTimePredictor.java:69)
+	at com.compomics.jwrapper.elude.TestRetentionTimePrediction.testRetentionTimePredictor(TestRetentionTimePrediction.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at com.intellij.junit3.JUnit3IdeaTestRunner.doRun(JUnit3IdeaTestRunner.java:139)
+	at junit.textui.TestRunner.doRun(TestRunner.java:109)
+	at com.intellij.junit3.JUnit3IdeaTestRunner.startRunnerWithArgs(JUnit3IdeaTestRunner.java:52)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:199)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:120)
+14:09:04,244 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:09:04,246  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:09:04,306 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2897a560
+14:09:04,308  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:09:04,318 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594144292-0\com.compomics.jwrapper.elude-in-1318594144292.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594144292-0\com.compomics.jwrapper.elude-out-1318594144292.tmp]'
+14:09:04,432 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594144292-0\com.compomics.jwrapper.elude-in-1318594144292.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594144292-0\com.compomics.jwrapper.elude-out-1318594144292.tmp]	Duration : 0sec
+14:09:05,315 ERROR RetentionTimePredictor:88 - Het systeem kan het opgegeven pad niet vinden
+java.io.IOException: Het systeem kan het opgegeven pad niet vinden
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:883)
+	at com.compomics.jwrapper.elude.playground.RetentionTimePredictor.doRetentionTimePredictor(RetentionTimePredictor.java:69)
+	at com.compomics.jwrapper.elude.TestRetentionTimePrediction.testRetentionTimePredictor(TestRetentionTimePrediction.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.textui.TestRunner.doRun(TestRunner.java:116)
+	at com.intellij.junit3.JUnit3IdeaTestRunner.doRun(JUnit3IdeaTestRunner.java:139)
+	at junit.textui.TestRunner.doRun(TestRunner.java:109)
+	at com.intellij.junit3.JUnit3IdeaTestRunner.startRunnerWithArgs(JUnit3IdeaTestRunner.java:52)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:199)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:120)
+14:09:46,338 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:09:46,340  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:09:46,394 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@55d15445
+14:09:46,397  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:09:46,406 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594186383-0\com.compomics.jwrapper.elude-in-1318594186383.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594186383-0\com.compomics.jwrapper.elude-out-1318594186383.tmp]'
+14:09:46,521 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594186383-0\com.compomics.jwrapper.elude-in-1318594186383.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594186383-0\com.compomics.jwrapper.elude-out-1318594186383.tmp]	Duration : 0sec
+14:09:47,425  INFO RetentionTimePredictor:81 - exiting
+14:12:43,179 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:12:43,181  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:12:43,236 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@7bea5671
+14:12:43,237  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:12:43,246 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594363221-0\com.compomics.jwrapper.elude-in-1318594363222.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594363221-0\com.compomics.jwrapper.elude-out-1318594363222.tmp]'
+14:12:43,354 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594363221-0\com.compomics.jwrapper.elude-in-1318594363222.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594363221-0\com.compomics.jwrapper.elude-out-1318594363222.tmp]	Duration : 0sec
+14:12:44,263  INFO RetentionTimePredictor:81 - exiting
+14:13:03,165 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:13:03,167  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:13:03,222 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@7bea5671
+14:13:03,223  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:13:03,233 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594383208-0\com.compomics.jwrapper.elude-in-1318594383208.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594383208-0\com.compomics.jwrapper.elude-out-1318594383208.tmp]'
+14:13:03,353 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594383208-0\com.compomics.jwrapper.elude-in-1318594383208.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594383208-0\com.compomics.jwrapper.elude-out-1318594383208.tmp]	Duration : 0sec
+14:13:04,234  INFO RetentionTimePredictor:81 - exiting
+14:13:42,941 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:13:42,944  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:13:43,001 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@55d15445
+14:13:43,003  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:13:43,012 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594422988-0\com.compomics.jwrapper.elude-in-1318594422988.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594422988-0\com.compomics.jwrapper.elude-out-1318594422988.tmp]'
+14:13:43,130 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594422988-0\com.compomics.jwrapper.elude-in-1318594422988.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594422988-0\com.compomics.jwrapper.elude-out-1318594422988.tmp]	Duration : 0sec
+14:13:44,013  INFO RetentionTimePredictor:81 - exiting
+14:14:25,845 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:14:25,847  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:14:25,907 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2897a560
+14:14:25,909  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:14:25,918 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594465893-0\com.compomics.jwrapper.elude-in-1318594465894.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594465893-0\com.compomics.jwrapper.elude-out-1318594465894.tmp]'
+14:14:26,034 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594465893-0\com.compomics.jwrapper.elude-in-1318594465894.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594465893-0\com.compomics.jwrapper.elude-out-1318594465894.tmp]	Duration : 0sec
+14:14:26,924  INFO RetentionTimePredictor:81 - exiting
+14:21:04,667 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:21:04,669  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:21:04,725 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@513bd574
+14:21:04,727  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:21:04,734 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594864711-0\com.compomics.jwrapper.elude-in-1318594864711.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594864711-0\com.compomics.jwrapper.elude-out-1318594864711.tmp]'
+14:21:04,851 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594864711-0\com.compomics.jwrapper.elude-in-1318594864711.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594864711-0\com.compomics.jwrapper.elude-out-1318594864711.tmp]	Duration : 0sec
+14:21:05,756  INFO RetentionTimePredictor:81 - exiting
+14:22:45,450 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2cb0ce8f
+14:22:45,454  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:22:45,461 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594965435-0\com.compomics.jwrapper.elude-in-1318594965435.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594965435-0\com.compomics.jwrapper.elude-out-1318594965436.tmp]'
+14:22:45,574 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594965435-0\com.compomics.jwrapper.elude-in-1318594965435.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594965435-0\com.compomics.jwrapper.elude-out-1318594965436.tmp]	Duration : 0sec
+14:22:46,502 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:22:46,504  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:22:46,507 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@6910fe28
+14:22:46,509  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:22:46,512 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594965435-0\com.compomics.jwrapper.elude-in-1318594966506.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594965435-0\com.compomics.jwrapper.elude-out-1318594966506.tmp]'
+14:22:46,626 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318594965435-0\com.compomics.jwrapper.elude-in-1318594966506.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318594965435-0\com.compomics.jwrapper.elude-out-1318594966506.tmp]	Duration : 0sec
+14:22:47,536  INFO RetentionTimePredictor:81 - exiting
+14:23:38,484 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@bc92535
+14:23:38,488  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:23:38,495 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595018470-0\com.compomics.jwrapper.elude-in-1318595018471.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595018470-0\com.compomics.jwrapper.elude-out-1318595018471.tmp]'
+14:23:38,605 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595018470-0\com.compomics.jwrapper.elude-in-1318595018471.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595018470-0\com.compomics.jwrapper.elude-out-1318595018471.tmp]	Duration : 0sec
+14:23:39,539 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:23:39,540  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:23:39,556 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@53ebd75b
+14:23:39,557  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:23:39,558 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595018470-0\com.compomics.jwrapper.elude-in-1318595019554.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595018470-0\com.compomics.jwrapper.elude-out-1318595019554.tmp]'
+14:23:39,673 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595018470-0\com.compomics.jwrapper.elude-in-1318595019554.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595018470-0\com.compomics.jwrapper.elude-out-1318595019554.tmp]	Duration : 0sec
+14:23:40,565  INFO RetentionTimePredictor:81 - exiting
+14:25:47,511 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2b0a3b24
+14:25:47,515  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:25:47,522 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595147497-0\com.compomics.jwrapper.elude-in-1318595147497.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595147497-0\com.compomics.jwrapper.elude-out-1318595147497.tmp]'
+14:25:47,630 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595147497-0\com.compomics.jwrapper.elude-in-1318595147497.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595147497-0\com.compomics.jwrapper.elude-out-1318595147497.tmp]	Duration : 0sec
+14:25:48,563 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:25:48,564  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:25:48,573 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@e80d1ff
+14:25:48,575  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:25:48,578 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595147497-0\com.compomics.jwrapper.elude-in-1318595148572.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595147497-0\com.compomics.jwrapper.elude-out-1318595148572.tmp]'
+14:25:48,693 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595147497-0\com.compomics.jwrapper.elude-in-1318595148572.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595147497-0\com.compomics.jwrapper.elude-out-1318595148572.tmp]	Duration : 0sec
+14:25:49,587  INFO RetentionTimePredictor:81 - exiting
+14:27:01,042 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2cb0ce8f
+14:27:01,045  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:27:01,052 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595221028-0\com.compomics.jwrapper.elude-in-1318595221028.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595221028-0\com.compomics.jwrapper.elude-out-1318595221028.tmp]'
+14:27:01,159 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595221028-0\com.compomics.jwrapper.elude-in-1318595221028.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595221028-0\com.compomics.jwrapper.elude-out-1318595221028.tmp]	Duration : 0sec
+14:27:02,068 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:27:02,069  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:27:02,072 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2b5ac3c9
+14:27:02,074  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:27:02,075 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595221028-0\com.compomics.jwrapper.elude-in-1318595222071.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595221028-0\com.compomics.jwrapper.elude-out-1318595222071.tmp]'
+14:27:02,193 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595221028-0\com.compomics.jwrapper.elude-in-1318595222071.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595221028-0\com.compomics.jwrapper.elude-out-1318595222071.tmp]	Duration : 0sec
+14:27:03,092  INFO RetentionTimePredictor:81 - exiting
+14:27:29,808 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2cb0ce8f
+14:27:29,811  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:27:29,819 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595249794-0\com.compomics.jwrapper.elude-in-1318595249794.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595249794-0\com.compomics.jwrapper.elude-out-1318595249794.tmp]'
+14:27:29,929 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595249794-0\com.compomics.jwrapper.elude-in-1318595249794.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595249794-0\com.compomics.jwrapper.elude-out-1318595249794.tmp]	Duration : 0sec
+14:27:30,860 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:27:30,861  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:27:30,866 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2b5ac3c9
+14:27:30,868  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:27:30,869 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595249794-0\com.compomics.jwrapper.elude-in-1318595250864.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595249794-0\com.compomics.jwrapper.elude-out-1318595250864.tmp]'
+14:27:30,988 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595249794-0\com.compomics.jwrapper.elude-in-1318595250864.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595249794-0\com.compomics.jwrapper.elude-out-1318595250864.tmp]	Duration : 0sec
+14:27:31,883  INFO RetentionTimePredictor:81 - exiting
+14:28:12,571 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:28:12,573  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:28:12,627 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@54bb7759
+14:28:12,628  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:28:12,637 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595292613-0\com.compomics.jwrapper.elude-in-1318595292613.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595292613-0\com.compomics.jwrapper.elude-out-1318595292613.tmp]'
+14:28:12,748 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595292613-0\com.compomics.jwrapper.elude-in-1318595292613.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595292613-0\com.compomics.jwrapper.elude-out-1318595292613.tmp]	Duration : 0sec
+14:28:13,642  INFO RetentionTimePredictor:81 - exiting
+14:28:58,067 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:28:58,070  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:28:58,123 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@5cbfe9d
+14:28:58,125  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:28:58,133 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595338110-0\com.compomics.jwrapper.elude-in-1318595338110.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595338110-0\com.compomics.jwrapper.elude-out-1318595338110.tmp]'
+14:28:58,249 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595338110-0\com.compomics.jwrapper.elude-in-1318595338110.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595338110-0\com.compomics.jwrapper.elude-out-1318595338110.tmp]	Duration : 0sec
+14:28:59,140  INFO RetentionTimePredictor:81 - exiting
+14:33:06,109 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:33:06,111  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:33:06,164 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@5cbfe9d
+14:33:06,166  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:33:06,174 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595586150-0\com.compomics.jwrapper.elude-in-1318595586151.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595586150-0\com.compomics.jwrapper.elude-out-1318595586151.tmp]'
+14:33:06,286 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595586150-0\com.compomics.jwrapper.elude-in-1318595586151.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595586150-0\com.compomics.jwrapper.elude-out-1318595586151.tmp]	Duration : 0sec
+14:33:07,181  INFO RetentionTimePredictor:81 - exiting
+14:38:53,679 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:38:53,681  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:38:53,734 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@54bb7759
+14:38:53,736  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:38:53,744 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595933720-0\com.compomics.jwrapper.elude-in-1318595933720.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595933720-0\com.compomics.jwrapper.elude-out-1318595933720.tmp]'
+14:38:53,859 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595933720-0\com.compomics.jwrapper.elude-in-1318595933720.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595933720-0\com.compomics.jwrapper.elude-out-1318595933720.tmp]	Duration : 0sec
+14:38:54,763  INFO RetentionTimePredictor:81 - exiting
+14:39:12,833 DEBUG RetentionTimePredictor:48 - parameters ok!
+14:39:12,835  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+14:39:12,888 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@13b8f864
+14:39:12,890  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+14:39:12,897 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595952874-0\com.compomics.jwrapper.elude-in-1318595952875.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595952874-0\com.compomics.jwrapper.elude-out-1318595952875.tmp]'
+14:39:13,011 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318595952874-0\com.compomics.jwrapper.elude-in-1318595952875.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318595952874-0\com.compomics.jwrapper.elude-out-1318595952875.tmp]	Duration : 0sec
+14:39:13,922  INFO RetentionTimePredictor:81 - exiting
+14:39:13,924  INFO RetentionTimePredictor:92 - true
+10:15:33,160 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@bc92535
+10:15:33,167  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:15:33,192 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318839333143-0\com.compomics.jwrapper.elude-in-1318839333143.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318839333143-0\com.compomics.jwrapper.elude-out-1318839333143.tmp]'
+10:15:33,393 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318839333143-0\com.compomics.jwrapper.elude-in-1318839333143.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318839333143-0\com.compomics.jwrapper.elude-out-1318839333143.tmp]	Duration : 0sec
+10:15:34,227 DEBUG RetentionTimePredictor:48 - parameters ok!
+10:15:34,229  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+10:15:34,233 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2087c268
+10:15:34,235  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:15:34,238 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318839333143-0\com.compomics.jwrapper.elude-in-1318839334231.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318839333143-0\com.compomics.jwrapper.elude-out-1318839334232.tmp]'
+10:15:34,363 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318839333143-0\com.compomics.jwrapper.elude-in-1318839334231.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318839333143-0\com.compomics.jwrapper.elude-out-1318839334232.tmp]	Duration : 0sec
+10:15:35,254  INFO RetentionTimePredictor:81 - exiting
+10:16:48,706 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2b0a3b24
+10:16:48,709  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:16:48,716 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318839408692-0\com.compomics.jwrapper.elude-in-1318839408692.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318839408692-0\com.compomics.jwrapper.elude-out-1318839408693.tmp]'
+10:16:48,824 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318839408692-0\com.compomics.jwrapper.elude-in-1318839408692.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318839408692-0\com.compomics.jwrapper.elude-out-1318839408693.tmp]	Duration : 0sec
+10:16:49,748 DEBUG RetentionTimePredictor:48 - parameters ok!
+10:16:49,749  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+10:16:49,763 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2b5ac3c9
+10:16:49,764  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:16:49,765 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318839408692-0\com.compomics.jwrapper.elude-in-1318839409761.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318839408692-0\com.compomics.jwrapper.elude-out-1318839409761.tmp]'
+10:16:49,880 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318839408692-0\com.compomics.jwrapper.elude-in-1318839409761.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318839408692-0\com.compomics.jwrapper.elude-out-1318839409761.tmp]	Duration : 0sec
+10:16:50,778  INFO RetentionTimePredictor:81 - exiting
+10:40:52,537 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@4ee91f5d
+10:40:52,540  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:40:52,548 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840852521-0\com.compomics.jwrapper.elude-in-1318840852521.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840852521-0\com.compomics.jwrapper.elude-out-1318840852521.tmp]'
+10:40:52,658 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840852521-0\com.compomics.jwrapper.elude-in-1318840852521.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840852521-0\com.compomics.jwrapper.elude-out-1318840852521.tmp]	Duration : 0sec
+10:40:53,582 DEBUG RetentionTimePredictor:48 - parameters ok!
+10:40:53,584  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+10:40:53,595 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@e80d1ff
+10:40:53,596  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:40:53,598 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840852521-0\com.compomics.jwrapper.elude-in-1318840853593.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840852521-0\com.compomics.jwrapper.elude-out-1318840853593.tmp]'
+10:40:53,714 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840852521-0\com.compomics.jwrapper.elude-in-1318840853593.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840852521-0\com.compomics.jwrapper.elude-out-1318840853593.tmp]	Duration : 0sec
+10:40:54,612  INFO RetentionTimePredictor:81 - exiting
+10:42:21,059 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2cb0ce8f
+10:42:21,062  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:42:21,070 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840941045-0\com.compomics.jwrapper.elude-in-1318840941045.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840941045-0\com.compomics.jwrapper.elude-out-1318840941045.tmp]'
+10:42:21,179 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840941045-0\com.compomics.jwrapper.elude-in-1318840941045.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840941045-0\com.compomics.jwrapper.elude-out-1318840941045.tmp]	Duration : 0sec
+10:42:22,108 DEBUG RetentionTimePredictor:48 - parameters ok!
+10:42:22,109  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+10:42:22,119 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@53ebd75b
+10:42:22,121  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:42:22,123 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840941045-0\com.compomics.jwrapper.elude-in-1318840942118.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840941045-0\com.compomics.jwrapper.elude-out-1318840942118.tmp]'
+10:42:22,240 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840941045-0\com.compomics.jwrapper.elude-in-1318840942118.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840941045-0\com.compomics.jwrapper.elude-out-1318840942118.tmp]	Duration : 0sec
+10:42:23,136  INFO RetentionTimePredictor:81 - exiting
+10:43:00,148 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2b0a3b24
+10:43:00,151  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:43:00,158 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840980134-0\com.compomics.jwrapper.elude-in-1318840980134.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840980134-0\com.compomics.jwrapper.elude-out-1318840980134.tmp]'
+10:43:00,268 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840980134-0\com.compomics.jwrapper.elude-in-1318840980134.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840980134-0\com.compomics.jwrapper.elude-out-1318840980134.tmp]	Duration : 0sec
+10:43:01,198 DEBUG RetentionTimePredictor:48 - parameters ok!
+10:43:01,199  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+10:43:01,203 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2b5ac3c9
+10:43:01,205  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:43:01,207 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840980134-0\com.compomics.jwrapper.elude-in-1318840981201.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840980134-0\com.compomics.jwrapper.elude-out-1318840981201.tmp]'
+10:43:01,325 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318840980134-0\com.compomics.jwrapper.elude-in-1318840981201.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318840980134-0\com.compomics.jwrapper.elude-out-1318840981201.tmp]	Duration : 0sec
+10:43:02,220  INFO RetentionTimePredictor:81 - exiting
+10:43:55,469 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2b0a3b24
+10:43:55,472  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:43:55,479 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841035454-0\com.compomics.jwrapper.elude-in-1318841035455.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841035454-0\com.compomics.jwrapper.elude-out-1318841035455.tmp]'
+10:43:55,589 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841035454-0\com.compomics.jwrapper.elude-in-1318841035455.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841035454-0\com.compomics.jwrapper.elude-out-1318841035455.tmp]	Duration : 0sec
+10:43:56,516 DEBUG RetentionTimePredictor:48 - parameters ok!
+10:43:56,517  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+10:43:56,528 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2b5ac3c9
+10:43:56,529  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:43:56,531 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841035454-0\com.compomics.jwrapper.elude-in-1318841036526.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841035454-0\com.compomics.jwrapper.elude-out-1318841036526.tmp]'
+10:43:56,645 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841035454-0\com.compomics.jwrapper.elude-in-1318841036526.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841035454-0\com.compomics.jwrapper.elude-out-1318841036526.tmp]	Duration : 0sec
+10:43:57,543  INFO RetentionTimePredictor:81 - exiting
+10:45:54,231 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@13e8d89
+10:45:54,234  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:45:54,240 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841154216-0\com.compomics.jwrapper.elude-in-1318841154216.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841154216-0\com.compomics.jwrapper.elude-out-1318841154216.tmp]'
+10:45:54,392 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841154216-0\com.compomics.jwrapper.elude-in-1318841154216.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841154216-0\com.compomics.jwrapper.elude-out-1318841154216.tmp]	Duration : 0sec
+10:45:55,295 DEBUG RetentionTimePredictor:48 - parameters ok!
+10:45:55,296  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+10:45:55,299 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@dd20f6
+10:45:55,299  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:45:55,301 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841154216-0\com.compomics.jwrapper.elude-in-1318841155297.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841154216-0\com.compomics.jwrapper.elude-out-1318841155297.tmp]'
+10:45:55,419 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841154216-0\com.compomics.jwrapper.elude-in-1318841155297.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841154216-0\com.compomics.jwrapper.elude-out-1318841155297.tmp]	Duration : 0sec
+10:45:56,312  INFO RetentionTimePredictor:81 - exiting
+10:59:53,581 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@b8df17
+10:59:53,584  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:59:53,589 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841993567-0\com.compomics.jwrapper.elude-in-1318841993568.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841993567-0\com.compomics.jwrapper.elude-out-1318841993568.tmp]'
+10:59:53,703 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841993567-0\com.compomics.jwrapper.elude-in-1318841993568.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841993567-0\com.compomics.jwrapper.elude-out-1318841993568.tmp]	Duration : 0sec
+10:59:54,635 DEBUG RetentionTimePredictor:48 - parameters ok!
+10:59:54,636  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+10:59:54,639 DEBUG RetentionTimePredictionTask:99 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@19efb05
+10:59:54,639  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+10:59:54,640 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841993567-0\com.compomics.jwrapper.elude-in-1318841994637.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841993567-0\com.compomics.jwrapper.elude-out-1318841994637.tmp]'
+10:59:54,766 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/models\Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318841993567-0\com.compomics.jwrapper.elude-in-1318841994637.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318841993567-0\com.compomics.jwrapper.elude-out-1318841994637.tmp]	Duration : 0sec
+10:59:55,651  INFO RetentionTimePredictor:81 - exiting
+11:26:09,559 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@bc92535
+11:26:09,564  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:26:09,571 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\OS_WINDOWS\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/OS_WINDOWS/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843569546-0\com.compomics.jwrapper.elude-in-1318843569547.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843569546-0\com.compomics.jwrapper.elude-out-1318843569547.tmp]'
+11:26:09,579 ERROR CommandThread:85 - Cannot run program "C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\OS_WINDOWS\elude.exe" (in directory "C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude"): CreateProcess error=2, Het systeem kan het opgegeven bestand niet vinden
+java.io.IOException: Cannot run program "C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\OS_WINDOWS\elude.exe" (in directory "C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude"): CreateProcess error=2, Het systeem kan het opgegeven bestand niet vinden
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=2, Het systeem kan het opgegeven bestand niet vinden
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+11:26:10,628 DEBUG RetentionTimePredictor:48 - parameters ok!
+11:26:10,629  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+11:26:10,633 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@53ebd75b
+11:26:10,635  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:26:10,637 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\OS_WINDOWS\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/OS_WINDOWS/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843569546-0\com.compomics.jwrapper.elude-in-1318843570631.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843569546-0\com.compomics.jwrapper.elude-out-1318843570631.tmp]'
+11:26:10,645 ERROR CommandThread:85 - Cannot run program "C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\OS_WINDOWS\elude.exe" (in directory "C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude"): CreateProcess error=2, Het systeem kan het opgegeven bestand niet vinden
+java.io.IOException: Cannot run program "C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\OS_WINDOWS\elude.exe" (in directory "C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude"): CreateProcess error=2, Het systeem kan het opgegeven bestand niet vinden
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:460)
+	at com.compomics.jwrapper.elude.threads.CommandThread.run(CommandThread.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: java.io.IOException: CreateProcess error=2, Het systeem kan het opgegeven bestand niet vinden
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:81)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:30)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:453)
+	... 7 more
+11:26:57,999 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@bc92535
+11:26:58,003  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:26:58,010 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843617984-0\com.compomics.jwrapper.elude-in-1318843617984.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843617984-0\com.compomics.jwrapper.elude-out-1318843617984.tmp]'
+11:26:58,120 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843617984-0\com.compomics.jwrapper.elude-in-1318843617984.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843617984-0\com.compomics.jwrapper.elude-out-1318843617984.tmp]	Duration : 0sec
+11:26:59,046 DEBUG RetentionTimePredictor:48 - parameters ok!
+11:26:59,047  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+11:26:59,060 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2087c268
+11:26:59,062  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:26:59,064 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843617984-0\com.compomics.jwrapper.elude-in-1318843619057.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843617984-0\com.compomics.jwrapper.elude-out-1318843619057.tmp]'
+11:26:59,177 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843617984-0\com.compomics.jwrapper.elude-in-1318843619057.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843617984-0\com.compomics.jwrapper.elude-out-1318843619057.tmp]	Duration : 0sec
+11:27:00,078  INFO RetentionTimePredictor:81 - exiting
+11:27:31,929 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@42a9c09e
+11:27:31,933  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:27:31,940 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843651914-0\com.compomics.jwrapper.elude-in-1318843651915.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843651914-0\com.compomics.jwrapper.elude-out-1318843651915.tmp]'
+11:27:32,052 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843651914-0\com.compomics.jwrapper.elude-in-1318843651915.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843651914-0\com.compomics.jwrapper.elude-out-1318843651915.tmp]	Duration : 0sec
+11:27:32,989 DEBUG RetentionTimePredictor:48 - parameters ok!
+11:27:32,991  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+11:27:33,004 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@30ec4a87
+11:27:33,005  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:27:33,007 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843651914-0\com.compomics.jwrapper.elude-in-1318843653002.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843651914-0\com.compomics.jwrapper.elude-out-1318843653002.tmp]'
+11:27:33,126 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843651914-0\com.compomics.jwrapper.elude-in-1318843653002.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843651914-0\com.compomics.jwrapper.elude-out-1318843653002.tmp]	Duration : 0sec
+11:27:34,022  INFO RetentionTimePredictor:81 - exiting
+11:27:43,370 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2cb0ce8f
+11:27:43,375  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:27:43,384 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843663354-0\com.compomics.jwrapper.elude-in-1318843663354.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843663354-0\com.compomics.jwrapper.elude-out-1318843663354.tmp]'
+11:27:43,494 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843663354-0\com.compomics.jwrapper.elude-in-1318843663354.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843663354-0\com.compomics.jwrapper.elude-out-1318843663354.tmp]	Duration : 0sec
+11:27:44,428 DEBUG RetentionTimePredictor:48 - parameters ok!
+11:27:44,429  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+11:27:44,432 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@53ebd75b
+11:27:44,434  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:27:44,438 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843663354-0\com.compomics.jwrapper.elude-in-1318843664431.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843663354-0\com.compomics.jwrapper.elude-out-1318843664431.tmp]'
+11:27:44,558 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843663354-0\com.compomics.jwrapper.elude-in-1318843664431.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843663354-0\com.compomics.jwrapper.elude-out-1318843664431.tmp]	Duration : 0sec
+11:27:45,452  INFO RetentionTimePredictor:81 - exiting
+11:27:57,189 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@2cb0ce8f
+11:27:57,193  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:27:57,200 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843677175-0\com.compomics.jwrapper.elude-in-1318843677176.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843677175-0\com.compomics.jwrapper.elude-out-1318843677176.tmp]'
+11:27:57,315 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843677175-0\com.compomics.jwrapper.elude-in-1318843677176.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843677175-0\com.compomics.jwrapper.elude-out-1318843677176.tmp]	Duration : 0sec
+11:27:58,229 DEBUG RetentionTimePredictor:48 - parameters ok!
+11:27:58,230  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+11:27:58,233 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@53ebd75b
+11:27:58,235  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:27:58,236 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843677175-0\com.compomics.jwrapper.elude-in-1318843678232.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843677175-0\com.compomics.jwrapper.elude-out-1318843678232.tmp]'
+11:27:58,359 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843677175-0\com.compomics.jwrapper.elude-in-1318843678232.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843677175-0\com.compomics.jwrapper.elude-out-1318843678232.tmp]	Duration : 0sec
+11:27:59,251  INFO RetentionTimePredictor:81 - exiting
+11:29:11,441 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@1be2d65
+11:29:11,444  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:29:11,449 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843751427-0\com.compomics.jwrapper.elude-in-1318843751428.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843751427-0\com.compomics.jwrapper.elude-out-1318843751428.tmp]'
+11:29:11,565 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843751427-0\com.compomics.jwrapper.elude-in-1318843751428.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843751427-0\com.compomics.jwrapper.elude-out-1318843751428.tmp]	Duration : 0sec
+11:29:12,481 DEBUG RetentionTimePredictor:48 - parameters ok!
+11:29:12,482  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+11:29:12,484 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@19efb05
+11:29:12,484  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:29:12,485 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843751427-0\com.compomics.jwrapper.elude-in-1318843752482.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843751427-0\com.compomics.jwrapper.elude-out-1318843752482.tmp]'
+11:29:12,608 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843751427-0\com.compomics.jwrapper.elude-in-1318843752482.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843751427-0\com.compomics.jwrapper.elude-out-1318843752482.tmp]	Duration : 0sec
+11:29:13,497  INFO RetentionTimePredictor:81 - exiting
+11:32:36,024 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@13e8d89
+11:32:36,026  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:32:36,031 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843956010-0\com.compomics.jwrapper.elude-in-1318843956010.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843956010-0\com.compomics.jwrapper.elude-out-1318843956010.tmp]'
+11:32:36,148 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843956010-0\com.compomics.jwrapper.elude-in-1318843956010.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843956010-0\com.compomics.jwrapper.elude-out-1318843956010.tmp]	Duration : 0sec
+11:32:37,084 DEBUG RetentionTimePredictor:48 - parameters ok!
+11:32:37,085  INFO RetentionTimePredictor:49 - Starting new RetentionTimePredictor task
+11:32:37,088 DEBUG RetentionTimePredictionTask:98 - com.compomics.jwrapper.elude command:	[Ljava.lang.String;@19efb05
+11:32:37,089  INFO RetentionTimePredictionTask:61 - submitting com.compomics.jwrapper.elude task
+11:32:37,093 DEBUG CommandThread:66 - Executing command '[C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843956010-0\com.compomics.jwrapper.elude-in-1318843957086.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843956010-0\com.compomics.jwrapper.elude-out-1318843957086.tmp]'
+11:32:37,218 DEBUG CommandThread:82 - Finished command [C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude\win\elude.exe, -l, C:\Users\niels\Development\Projects\elude\elude-jwrapper\elude/win/models/Jupiter_60.model, -e, C:\Users\niels\AppData\Local\Temp\1318843956010-0\com.compomics.jwrapper.elude-in-1318843957086.tmp, -o, C:\Users\niels\AppData\Local\Temp\1318843956010-0\com.compomics.jwrapper.elude-out-1318843957086.tmp]	Duration : 0sec
+11:32:38,104  INFO RetentionTimePredictor:81 - exiting
