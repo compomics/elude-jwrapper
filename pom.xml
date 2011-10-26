@@ -7,10 +7,10 @@
     <packaging>jar</packaging>
     <version>${version.number}</version>
     <name>elude-jwrapper</name>
-    <url>code.google.com/p/elude-jwrapper/</url>
+    <url>https://github.com/nielshulstaert/elude-jwrapper</url>
     <!-- Set the version number for the whole project -->
     <properties>
-        <version.number>0.1</version.number>
+        <version.number>1.0</version.number>
     </properties>
     <!-- Licence -->
     <licenses>
@@ -48,16 +48,7 @@
     </developers>
     <!-- Build -->
     <build>
-        <!-- Copy the resources required during building -->
-        <!--<resources>
-            <resource>
-                <directory>src/main/resources/</directory>
-                <includes>
-                    <include>test.txt</include>
-                </includes>
-            </resource>
-        </resources>-->
-        <!-- Plugins -->
+
         <plugins>
             <!-- Compiler plugin -->
             <plugin>
@@ -152,7 +143,7 @@
                             </outputDirectory>
                             <resources>
                                 <resource>
-                                    <directory>/elude</directory>
+                                    <directory>elude</directory>
                                 </resource>
                             </resources>
                         </configuration>
