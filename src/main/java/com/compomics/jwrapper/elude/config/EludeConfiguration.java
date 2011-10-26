@@ -13,7 +13,7 @@ import java.net.URL;
  * This class is a
  */
 public class EludeConfiguration {
-    private static final String OS_UNIX = "unix";
+    private static final String OS_UNIX = "mac";
     private static final String OS_WINDOWS = "win";
 
     private static final Logger logger = Logger.getLogger(EludeConfiguration.class);

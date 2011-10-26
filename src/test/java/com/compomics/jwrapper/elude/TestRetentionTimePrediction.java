@@ -4,19 +4,19 @@ import com.compomics.jwrapper.elude.beans.PeptideInputBean;
 import com.compomics.jwrapper.elude.beans.PeptideOutputBean;
 import com.compomics.jwrapper.elude.exception.EludeException;
 import com.compomics.jwrapper.elude.playground.RetentionTimePredictor;
-import com.google.common.io.Files;
 import junit.framework.Assert;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-import org.apache.commons.io.FileUtils;
 import org.junit.After;
 import org.junit.Before;
 
-import javax.management.monitor.StringMonitor;
 import java.io.*;
 import java.net.URISyntaxException;
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
 
 /**
  * This class is a
@@ -56,6 +56,7 @@ public class TestRetentionTimePrediction extends TestCase {
             lPeptideOutputBeans = RetentionTimePredictionTask.predictRetentionTimes(lPeptideInputBeans);
         } catch (EludeException e) {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+            Assert.fail();
         }
         for (PeptideOutputBean lOutputBean : lPeptideOutputBeans ){
             // simple testing!
