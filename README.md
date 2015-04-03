@@ -8,4 +8,4 @@ The elude-jwrapper library provides a Java API to make use of the retention time
 
 Links
 -----
-* [compomics home page] (http://compomics.wordpress.com)
+* [Compomics home page] (http://compomics.wordpress.com)
