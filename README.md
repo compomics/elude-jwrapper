@@ -8,7 +8,7 @@ The elude-jwrapper library provides a Java API to make use of the retention time
 
 ## Project Support
 
-The jTraML project is grateful for the support by:
+The elude-jwrapper project is grateful for the support by:
 
 | Compomics | VIB | Ghent University|
 |:--:|:--:|:--:|
