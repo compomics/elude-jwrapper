@@ -38,7 +38,7 @@ public class RetentionTimePredictor {
             Options lOptions = new Options();
             createOptions(lOptions);
 
-            BasicParser parser = new BasicParser();
+            DefaultParser parser = new DefaultParser();
             CommandLine line = parser.parse(lOptions, args);
 
             if (isValidStartup(line) == false) {
