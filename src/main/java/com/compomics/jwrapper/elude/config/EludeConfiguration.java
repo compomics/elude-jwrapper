@@ -21,6 +21,12 @@ public class EludeConfiguration {
     private static PropertiesConfiguration config;
     private static File iWorkSpace = null;
     private static String iRootDirectory = null;
+    /**
+     * The elude.unix.standalone.executable property value in the config file.
+     * We added this option to be able to run on linux distributions where the elude binary is installed
+     * on the system and not shipped with the jar. If this value is empty, the shipped windows/mac elude version will be used.
+     */
+    private static String unixStandaloneExecutable = null;
 
     // -------------------------- STATIC BLOCKS --------------------------
 
@@ -28,6 +34,7 @@ public class EludeConfiguration {
         try {
             URL lResource = Resources.getResource("config/elude-jwrapper.properties");
             config = new PropertiesConfiguration(lResource);
+            unixStandaloneExecutable = config.getString("elude.unix.standalone.executable");
         } catch (org.apache.commons.configuration.ConfigurationException e) {
             logger.error(e.getMessage(), e);
         }
@@ -36,20 +43,26 @@ public class EludeConfiguration {
     // -------------------------- STATIC METHODS --------------------------
 
     public static File getExecutable() {
-        String lRootDirectory = getRootDirectory();
+        File executable;
+        if (unixStandaloneExecutable.isEmpty()) {
+            String lRootDirectory = getRootDirectory();
 
-        String lExecutable = null;
-        if (Utilities.isUnix()) {
-            config.setProperty("elude.os", OS_UNIX);
-            lExecutable = config.getString("elude.unix.executable");
+            String lExecutable = null;
+            if (Utilities.isUnix()) {
+                config.setProperty("elude.os", OS_UNIX);
+                lExecutable = config.getString("elude.unix.executable");
+            } else {
+                config.setProperty("elude.os", OS_WINDOWS);
+                lExecutable = config.getString("elude.windows.executable");
+            }
+
+            executable = new File(lRootDirectory, lExecutable);
         } else {
-            config.setProperty("elude.os", OS_WINDOWS);
-            lExecutable = config.getString("elude.windows.executable");
+            executable = new File(unixStandaloneExecutable);
         }
 
-        return new File(lRootDirectory, lExecutable);
+        return executable;
     }
-
 
     public static String getEludeFolder() {
         return getRootDirectory() + File.separator + config.getString("elude.directory");
@@ -63,7 +76,13 @@ public class EludeConfiguration {
     }
 
     public static String getModel() {
-        return getRootDirectory() + File.separator + config.getString("elude.model");
+        String model;
+        if (unixStandaloneExecutable.isEmpty()) {
+            model = getRootDirectory() + File.separator + config.getString("elude.model");
+        } else {
+            model = config.getString("elude.unix.standalone.model");
+        }
+        return model;
     }
 
     private static String getRootDirectory() {
